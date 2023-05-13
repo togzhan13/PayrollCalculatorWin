@@ -1,0 +1,11 @@
+C:\Users\togzh\source\repos\A4-TogzhanTolegen\obj\Debug\A4-TogzhanTolegen.csproj.AssemblyReference.cache
+C:\Users\togzh\source\repos\A4-TogzhanTolegen\obj\Debug\A4-TogzhanTolegen.csproj.SuggestedBindingRedirects.cache
+C:\Users\togzh\source\repos\A4-TogzhanTolegen\obj\Debug\A4_TogzhanTolegen.Form1.resources
+C:\Users\togzh\source\repos\A4-TogzhanTolegen\obj\Debug\A4_TogzhanTolegen.Properties.Resources.resources
+C:\Users\togzh\source\repos\A4-TogzhanTolegen\obj\Debug\A4-TogzhanTolegen.csproj.GenerateResource.cache
+C:\Users\togzh\source\repos\A4-TogzhanTolegen\obj\Debug\A4-TogzhanTolegen.csproj.CoreCompileInputs.cache
+C:\Users\togzh\source\repos\A4-TogzhanTolegen\bin\Debug\A4-TogzhanTolegen.exe.config
+C:\Users\togzh\source\repos\A4-TogzhanTolegen\bin\Debug\A4-TogzhanTolegen.exe
+C:\Users\togzh\source\repos\A4-TogzhanTolegen\bin\Debug\A4-TogzhanTolegen.pdb
+C:\Users\togzh\source\repos\A4-TogzhanTolegen\obj\Debug\A4-TogzhanTolegen.exe
+C:\Users\togzh\source\repos\A4-TogzhanTolegen\obj\Debug\A4-TogzhanTolegen.pdb
